@@ -1,1 +1,1 @@
-Hallo
+In diesem Projekt wurde ein klassisches Memory-Spiel mit Hilfe von Mikrocontrollertechnik gebaut. Ziel war es, ein Spiel zu entwickeln, bei dem Paare nicht über Bilder, sondern über das Gehör gefunden werden. Die Spieler halten RFID-Karten vor einen Leser, woraufhin eine Audio-Datei mit einem Begriff abgespielt wird.
